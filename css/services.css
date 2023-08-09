@@ -187,7 +187,7 @@ footer{
   color: #f5f5f5;
 }
 .fa.fa-instagram{
-  color: #E4405F;
+  color: linear-gradient(135deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #FFD23F);
   background: transparent;
   height: 30px;
   width: 35px;
@@ -199,7 +199,7 @@ footer{
 }
 .insta a:hover{
   color: #f5f5f5;
-  background-color: #E4405F;
+  background: linear-gradient(135deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #FFD23F);
 }
 .socials{
     text-align: left;
